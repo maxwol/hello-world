@@ -1,3 +1,2 @@
 # hello-world
-smthn
-and smthn about myself
+second try
